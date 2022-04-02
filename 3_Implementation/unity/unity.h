@@ -16,8 +16,9 @@
 #ifdef __cplusplus
 extern "C"
 {
-#endif
 
+
+#endif
 #include "unity_internals.h"
 
 /*-------------------------------------------------------
