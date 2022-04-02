@@ -36,7 +36,7 @@ The marksheet entry form includes “student details” and “grade points obta
 High level requirements
 Accept yours Registration ID total, if you don't want to continue then press 'N', else press 'Y'.
 
-# LOW LEVEL REQUIREMENTS
+# LEVEL REQUIREMENTS
 Hardware requirement
 RAM: 1 GB or above. Hard disk: Minimum 20 GB free space. Processor: Pentium 4 (1.6 GHz) or higher.
 
