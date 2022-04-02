@@ -76,7 +76,7 @@ High-level and low-level, as technical terms, are used to classify, describe and
 |-----| :------------------------------------------:|----------|-----:|
 |HR01 |	User shall be able to add new student record|	Techincal|	IMPLEMENTED|
 
-|HR02 |	User shall be able to view a student record|	Techincal|	IMPLEMENTED|
+|HR02 |	User shall be able to view a student record |	Techincal|	IMPLEMENTED|
 
 |HR03 |	User shall be able to search a student record|	Techincal|	IMPLEMENTED|
 
