@@ -88,7 +88,7 @@ High-level and low-level, as technical terms, are used to classify, describe and
 # Low level Requirements:
 |ID |	Description|	HLR ID	|Status (Implemented/Future)|
 |---| :---------:|----------|--------------------------:|
-|LR01|New student shall be added by providing all the asked information (2). Id should be unique and validated from persistant file or else new account should not be accepted|	HR01	IMPLEMENTED|
+|LR01|New student shall be added by providing all the asked information (2). Id should be unique and validated from persistant file or else new account should not be accepted|	HR01|IMPLEMENTED|
 |LR02|	If user tries to create an existing record then the system doesn't allow|	HR02	IMPLEMENTED|
 
 |LR03|	User can only update an existing record|	HR03	IMPLEMENTED|
