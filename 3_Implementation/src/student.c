@@ -1,4 +1,5 @@
 #include<string.h>
+#include<windows.h>
 void gotoxy(int ,int );
 void menu();
 void add();
