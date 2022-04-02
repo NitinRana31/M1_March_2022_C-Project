@@ -76,19 +76,12 @@ High-level and low-level, as technical terms, are used to classify, describe and
 |-----| :------------------------------------------:|----------|-----:|
 |HR01 |	User shall be able to add new student record|	Techincal|	IMPLEMENTED|
 |HR02 |	User shall be able to view a student record |	Techincal|	IMPLEMENTED|
-
 |HR03 |	User shall be able to search a student record|	Techincal|	IMPLEMENTED|
-
 |HR03 |	User shall be able to modifyed a student record|Techincal|	IMPLEMENTED|
-
 |HR04 |	User shall be able to delete a student record|	Techincal|	IMPLEMENTED|
-
 |HR05 |	User shall be able to save records in a file|	Techincal|	IMPLEMENTED|
-
 |HR06 |	User shall be able to view data from a file|	Techincal|	IMPLEMENTED|
-
 |HR07 |	Data should not be lost in case of faliure|	Scenario|	FUTURE|
-
 |HR08 |	Data should always be stored when closing the system|	Scenario|	IMPLEMENTED|
 
 
