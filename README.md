@@ -13,3 +13,6 @@ The user can :
 
 # Codiga
 [![Codiga Badge](https://api.codiga.io/project/32492/status/svg)
+
+# Codeac
+[![Codeac](https://static.codeac.io/badges/2-477004259.svg "Codeac")](https://app.codeac.io/github/NitinRana31/M1_March_2022_C-Project)
